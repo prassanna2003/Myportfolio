@@ -189,7 +189,7 @@ footer {
 }
 
 /* For smaller devices */
-@media (max-width: 50px) {
+@media (max-width: 480px) {
     .nav-links {
         font-size: 1rem; /* Further reduce font size */
     }
